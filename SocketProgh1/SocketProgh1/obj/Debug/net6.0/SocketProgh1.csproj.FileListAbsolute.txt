@@ -1,0 +1,15 @@
+C:\Users\Tec\Desktop\SocketProgh1\SocketProgh1\bin\Debug\net6.0\SocketProgh1.exe
+C:\Users\Tec\Desktop\SocketProgh1\SocketProgh1\bin\Debug\net6.0\SocketProgh1.deps.json
+C:\Users\Tec\Desktop\SocketProgh1\SocketProgh1\bin\Debug\net6.0\SocketProgh1.runtimeconfig.json
+C:\Users\Tec\Desktop\SocketProgh1\SocketProgh1\bin\Debug\net6.0\SocketProgh1.dll
+C:\Users\Tec\Desktop\SocketProgh1\SocketProgh1\bin\Debug\net6.0\SocketProgh1.pdb
+C:\Users\Tec\Desktop\SocketProgh1\SocketProgh1\obj\Debug\net6.0\SocketProgh1.csproj.AssemblyReference.cache
+C:\Users\Tec\Desktop\SocketProgh1\SocketProgh1\obj\Debug\net6.0\SocketProgh1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tec\Desktop\SocketProgh1\SocketProgh1\obj\Debug\net6.0\SocketProgh1.AssemblyInfoInputs.cache
+C:\Users\Tec\Desktop\SocketProgh1\SocketProgh1\obj\Debug\net6.0\SocketProgh1.AssemblyInfo.cs
+C:\Users\Tec\Desktop\SocketProgh1\SocketProgh1\obj\Debug\net6.0\SocketProgh1.csproj.CoreCompileInputs.cache
+C:\Users\Tec\Desktop\SocketProgh1\SocketProgh1\obj\Debug\net6.0\SocketProgh1.dll
+C:\Users\Tec\Desktop\SocketProgh1\SocketProgh1\obj\Debug\net6.0\refint\SocketProgh1.dll
+C:\Users\Tec\Desktop\SocketProgh1\SocketProgh1\obj\Debug\net6.0\SocketProgh1.pdb
+C:\Users\Tec\Desktop\SocketProgh1\SocketProgh1\obj\Debug\net6.0\SocketProgh1.genruntimeconfig.cache
+C:\Users\Tec\Desktop\SocketProgh1\SocketProgh1\obj\Debug\net6.0\ref\SocketProgh1.dll
